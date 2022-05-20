@@ -11,4 +11,4 @@ In this challenge we had to refactor a javascript password generator. As a devel
 
 
 
- [**GITHUB PAGES LINK**](https://dlonmusk.github.io/refactor-challenge/Develop/index.html)
+ [**GITHUB PAGES LINK**](https://dlonmusk.github.io/password-challenge/)
